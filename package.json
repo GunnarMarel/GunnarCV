@@ -1,9 +1,10 @@
 {
-  "name": "GunnarCV",
+  "name": "gunnar-cv",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://GunnarMarel.github.io/GunnarCV",
+  "homepage": "http://GunnarMarel.github.io/gunnar-cv",
   "dependencies": {
+    "gh-pages-deploy": "^0.5.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-scripts": "1.1.4"
