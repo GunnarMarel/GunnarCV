@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import stuttleiga from '../stuttleiga.PNG';
+import stuttleiga from '../stuttleiga.png';
 import Patman from '../Patman.PNG';
 import Laxness1 from '../laxness1.png';
 import Laxness2 from '../laxness2.png';
