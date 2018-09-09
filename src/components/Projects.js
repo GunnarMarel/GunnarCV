@@ -17,6 +17,7 @@ class Projects extends Component {
                   <p><strong>Peer to peer car rental a project for HBV</strong></p>
                   <p>Java, Spring Framework, PostgreSQL</p>
                   <a href="https://infinite-mountain-61347.herokuapp.com/welcome" target="_blank" rel="noopener noreferrer"><button className="btn success">Check it out </button></a>
+                  <a href="https://infinite-mountain-61347.herokuapp.com/welcome" target="_blank" rel="noopener noreferrer"><button className="btn success">Check it out </button></a>
                 </div>
             </div>
             <div className="item">
