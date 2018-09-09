@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import stuttleiga from '../stuttleiga.png';
+import Stuttleiga from '../stuttleiga.png';
 import Patman from '../Patman.PNG';
 import Laxness1 from '../laxness1.png';
 import Laxness2 from '../laxness2.png';
@@ -9,7 +9,7 @@ class Projects extends Component {
         return (
           <div className="Projects section flex-container">
             <div className="item">
-              <img src={stuttleiga} className="thumb"/>
+              <img src={Stuttleiga} className="thumb"/>
             </div>
             <div className="item">
               <div className="text">
