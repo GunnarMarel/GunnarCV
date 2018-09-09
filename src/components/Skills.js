@@ -4,8 +4,8 @@ class Skills extends Component {
 
     
   render() {
-    const dayToDay = ["Java", "Javascript", "HTML", "CSS", "Github"];
-    const exp = ["Scrum", "Agile", "Node", "Unity", "React-native", "React", "Python", "C++", "C#", "Android", "SQL"];
+    const dayToDay = ["Java", "Javascript", "HTML", "CSS", "Github", "Agile"];
+    const exp = ["Scrum", "Node", "Unity", "React-native", "React", "Python", "C++", "C#", "Android", "SQL"];
     const dayList = dayToDay.map((dayToDay) =><li>{dayToDay}</li>);
     const expList = exp.map((exp) =><li>{exp}</li>);
 
