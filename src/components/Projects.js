@@ -9,7 +9,7 @@ class Projects extends Component {
         return (
           <div className="Projects section flex-container">
             <div className="item">
-              <img src={Stuttleiga} className="thumb"/>
+              <img src={Patman} className="thumb"/>
             </div>
             <div className="item">
               <div className="text">
