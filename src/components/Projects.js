@@ -14,7 +14,7 @@ class Projects extends Component {
             <div className="item">
               <div className="text">
                   <h3>Stutt Leiga</h3>
-                  <p><strong>Peer to peer car rental a project for HBV</strong></p>
+                  <p><strong>Peer to peer car rental a project for a course</strong></p>
                   <p>Java, Spring Framework, PostgreSQL</p>
                   <a href="https://infinite-mountain-61347.herokuapp.com/welcome" target="_blank" rel="noopener noreferrer"><button className="btn success">Check it out </button></a>
                   <a href="https://github.com/GunnarMarel/Team11Project/tree/master/Team11Project03" target="_blank" rel="noopener noreferrer"><button className="btn success">Github </button></a>
@@ -26,7 +26,7 @@ class Projects extends Component {
         <div className="item">
           <div className="text">
               <h3>Patman</h3>
-              <p><strong>A Pacman remake with my teacher</strong></p>
+              <p><strong>A Pacman remake with my teacher as pacman</strong></p>
               <p>Javascript, HTML, CSS</p>
               <a href="https://karitassif.github.io/Patman/" target="_blank" rel="noopener noreferrer"><button className="btn success">Check it out </button></a>
               <a href="https://github.com/karitassif/Patman" target="_blank" rel="noopener noreferrer"><button className="btn success">Github </button></a>
@@ -38,7 +38,7 @@ class Projects extends Component {
         <div className="item">
           <div className="text">
               <h3>Tilvitnun dagsins</h3>
-              <p><strong>A app with Gljúfrasteinn</strong></p>
+              <p><strong>An app with Gljúfrasteinn</strong></p>
               <p>React Native, RESTful api, Android, IOS</p>
               <a href="https://expo.io/@mimiqkz/laxness-react" target="_blank" rel="noopener noreferrer"><button className="btn success">Check it out </button></a>
               <a href="https://github.com/mimiqkz/Laxness" target="_blank" rel="noopener noreferrer"><button className="btn success">Github </button></a>
