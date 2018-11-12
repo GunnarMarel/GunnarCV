@@ -19,7 +19,7 @@ class Skills extends Component {
             </div>
             <div className="column">
                 
-                    <h3> Experince with </h3>
+                    <h3> Experience with </h3>
                     <ul>{expList}</ul>
                 
             </div>
